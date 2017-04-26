@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.oracle.truffle:truffle-api:0.23">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.truffle/truffle-api/0.23/60e541c868cafcc3b5eefd787d164fd984b352b9/truffle-api-0.23.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.oracle.truffle/truffle-api/0.23/e9b7925e82e1c2f9bb15407f1b3adca1f41a6f10/truffle-api-0.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

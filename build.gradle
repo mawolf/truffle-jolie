@@ -19,11 +19,12 @@ repositories {
     jcenter()
 }
 
-
 dependencies {
     compile 'com.oracle.truffle:truffle-api:0.23'
     apt 'com.oracle.truffle:truffle-api:0.23'
     apt 'com.oracle.truffle:truffle-dsl-processor:0.23'
+
+    compile fileTree(dir: 'libs', include: '*.jar')
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
